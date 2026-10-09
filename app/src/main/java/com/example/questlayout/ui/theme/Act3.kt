@@ -41,6 +41,7 @@ fun ActivitasPertama(modifier: Modifier) {
         Card(
             modifier = modifier
                 .fillMaxWidth(fraction = 1f)
+                .padding(all = 12.dp),
 
         )
     }
