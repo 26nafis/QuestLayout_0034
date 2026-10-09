@@ -39,7 +39,7 @@ fun ActivitasPertama(modifier: Modifier) {
             modifier = Modifier.height(25.dp)
         )
         Card(
-
+            modifier = modifier
         )
     }
 }
